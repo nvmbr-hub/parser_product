@@ -1,1 +1,1 @@
-# parser_product
+# Parser product for WordPress
